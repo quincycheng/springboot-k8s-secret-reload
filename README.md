@@ -1,5 +1,5 @@
-# springboot-k8s-secret-reload
-Springboot Demo with reloading k8s secrets without restarting container
+# springboot-k8s-secret-reload-mysql
+Springboot Demo with reloading k8s secrets of mysql database without restarting app container
 
 
 # Demo Procedure
